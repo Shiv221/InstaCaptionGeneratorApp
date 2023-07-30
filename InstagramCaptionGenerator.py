@@ -2,7 +2,7 @@ from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
 import streamlit as st
 
-llm = OpenAI(openai_api_key='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',temperature=0.9)
+llm = OpenAI(openai_api_key='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',temperature=0.9)
 
 
 # streamlit framework
